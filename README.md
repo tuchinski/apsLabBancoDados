@@ -22,4 +22,6 @@ Exemplo:
 
 Download dos dados e dicionário de Variáveis [aqui].
 
+Grupo: Leonardo M. Tuchinski, Geovani Pedroso, Alexandre Kajihara.
+
 [aqui]:http://download.inep.gov.br/microdados/Enade_Microdados/microdados_Enade_2017_portal_2018.10.09.zip
