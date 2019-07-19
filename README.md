@@ -8,6 +8,7 @@ Este repósitório contém os scripts SQL para adicionar os dados do ENADE 2017 
 Neste script, criamos uma tabela única, com o nome 'enade', contendo todos os campos do arquivo .txt
 
 Para que o script funcione é necessário editar a última linha, informando o caminho do arquivo txt contendo os dados do ENADE. 
+
 Exemplo:
  `FROM '/home/tuchinski/Documentos/MICRODADOS_ENADE_2017.txt' DELIMITER ';' CSV HEADER;`
  Depois de executado o comando, a tabela será criada e devidamente preenchida.
