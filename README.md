@@ -1,8 +1,8 @@
-## **ENADE 2017**
+# **ENADE 2017**
 
 Este repósitório contém os scripts SQL para adicionar os dados do ENADE 2017 em um banco de dados POSGRESQL, além do modelo relacional, no formato .mwb, que pode ser aberto no MYSQL WORKBENCH:
 
-# Execução dos Scripts
+## Execução dos Scripts
 1. **scriptTabelaCSV.sql**
 
 Neste script, criamos uma tabela única, com o nome 'enade', contendo todos os campos do arquivo .txt
